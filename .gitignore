@@ -1,0 +1,15 @@
+# 데이터 캐시 (최초 실행 시 자동 생성)
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 가상환경
+venv/
+.venv/
